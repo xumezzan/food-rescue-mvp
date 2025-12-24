@@ -1,0 +1,7 @@
+{
+  "name": "Tejab Qol - Food Rescue Uzbekistan",
+  "description": "A mobile-first marketplace for Uzbekistan enabling users to buy surplus food from restaurants and stores at steep discounts (Surprise Bags), reducing food waste.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
